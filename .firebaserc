@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "fir-rtc-89b99"
-  }
+    "default": "rtc-sample-89115"
+  },
+  "targets": {},
+  "etags": {}
 }
